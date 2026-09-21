@@ -1,0 +1,7 @@
+{
+  "name": "Potager Carré : Le Guide Complet Étape par Étape",
+  "description": "Guide complet et pas à pas pour réussir votre potager carré : dimensions, fabrication, terreau fertile, calendrier et associations de légumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
